@@ -1,9 +1,0 @@
-RMSD ligands/true_2GM_lig.pdb: 4.65315
-RMSD ligands/true_2GM_lig.pdb: 9.53918
-RMSD ligands/true_2GM_lig.pdb: 5.30006
-RMSD ligands/true_2GM_lig.pdb: 10.3031
-RMSD ligands/true_2GM_lig.pdb: 10.8636
-RMSD ligands/true_2GM_lig.pdb: 6.29358
-RMSD ligands/true_2GM_lig.pdb: 9.06641
-RMSD ligands/true_2GM_lig.pdb: 6.39321
-RMSD ligands/true_2GM_lig.pdb: 5.14275

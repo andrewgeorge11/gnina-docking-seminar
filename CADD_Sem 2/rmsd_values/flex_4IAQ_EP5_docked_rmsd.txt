@@ -1,9 +1,0 @@
-RMSD ligands/true_EP5_lig.pdb: 10.4265
-RMSD ligands/true_EP5_lig.pdb: 8.65872
-RMSD ligands/true_EP5_lig.pdb: 9.09891
-RMSD ligands/true_EP5_lig.pdb: 11.482
-RMSD ligands/true_EP5_lig.pdb: 7.3083
-RMSD ligands/true_EP5_lig.pdb: 10.8197
-RMSD ligands/true_EP5_lig.pdb: 10.9682
-RMSD ligands/true_EP5_lig.pdb: 10.0666
-RMSD ligands/true_EP5_lig.pdb: 9.73793
